@@ -1,0 +1,3 @@
+# Конфигурация для проекта Jenkins
+project_name: Jenkins Project
+version: 1.0
